@@ -10,21 +10,6 @@ Null3000
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## My Tech Stack and Tools
-
-	
-![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
-
-
-
-
-
-	
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=null3000&theme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&theme=algolia)              | 
