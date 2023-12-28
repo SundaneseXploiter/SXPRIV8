@@ -21,15 +21,3 @@
     </picture>
 </div>
 
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
-</p>
-
-------
-
-Credit: [Niefee](https://github.com/Niefee)
-Last Edited on 03/02/2023
